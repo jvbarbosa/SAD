@@ -1,0 +1,7 @@
+Oi! Postei alguma coisa no git. Temos três dias para fazer esse trabalho. Eu fiquei responsável pelo KNN e pela
+decision tree. 
+Preciso do pré processamento! (ainda não vi se você já fez)
+Ideia é eu estudar hoje e se vc já começou o pré processamento eu começo a brincar hoje.
+Amanhã é o dia de trabalho pesado pra mim, vou fazer quase tudo nesse dia.
+Quinta é o dia de acertar os últimos pontos do trabalho e fazer a conclusão. 
+Sexta é dia de relaxar e tomar um breja.
